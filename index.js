@@ -13,12 +13,12 @@ function yourAnimal() {
   return animal2
 }
 
-function add2() {
+function add2(n) {
   
    // Feel free to move things around!
   var two = 2
-  var n = 159
-  return n + two
+  n = 159
+  return (n + two)
 
  
 }
